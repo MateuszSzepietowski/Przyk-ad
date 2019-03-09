@@ -19,6 +19,7 @@ public class Przykład {
         
         
         System.out.print("Zmiana");
+        int i;
     }
     
 }

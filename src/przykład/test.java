@@ -10,5 +10,12 @@ package przykład;
  * @author Krzysiek
  */
 public class test {
+    int p;
+    int d;
+    
+    public void m2(){
+        System.out.println("");
+    }
+    
     
 }
