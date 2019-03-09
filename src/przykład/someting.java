@@ -10,5 +10,9 @@ package przykład;
  * @author Krzysiek
  */
 public class someting {
+    public void tralalalal()
+    {
+        System.out.println("Piosenka");
+    }
     
 }
